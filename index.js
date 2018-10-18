@@ -1,5 +1,5 @@
 // write your code below!
-function happyHolidays()
+function happyHolidays(String)
 {
  return "Happy Holidays!"; 
 }
