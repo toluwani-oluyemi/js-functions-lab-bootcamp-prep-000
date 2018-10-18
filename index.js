@@ -1,7 +1,7 @@
 // write your code below!
-function happyHolidays(String)
+function happyHolidays(string)
 {
- return String. "Happy Holidays!"; 
+ return string."Happy Holidays!"; 
 }
 function happyHolidaysTo()${name}{
  return 'Happy holidays, ${name}!'
